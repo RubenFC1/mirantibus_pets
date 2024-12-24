@@ -35,7 +35,7 @@ ul {
 .card {
   position: relative;
   height: 440px;
-  background-color: var(--black-bkg);
+  background-color: var(--bs-black-rgb);
   cursor: pointer;
 }
 
@@ -76,7 +76,7 @@ ul {
 
 .card_title {
   font-size: 1.3rem;
-  color: var(--yellow);
+  color: var(--bs-yellow);
   font-family: "Montserrat", sans-serif;
   display: flex;
   justify-content: space-between;
@@ -86,7 +86,7 @@ ul {
 .card_text {
   font-size: 0.8rem;
   line-height: 1.5rem;
-  color: var(--white-text);
+  color: var(--bs-white-rgb);
 }
 
 .card_text p {
@@ -110,7 +110,7 @@ ul {
   text-transform: uppercase;
   text-align: right;
   font-size: 0.7rem;
-  background-color: var(--yellow);
-  color: var(--black-bkg);
+  background-color: var(--bs-yellow);
+  color: var(--bs-black-rgb);
 }
 

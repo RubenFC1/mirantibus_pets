@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="${pageContext.request.contextPath}resources/assetsMascota/css/cards.css">
     <link rel="stylesheet"
           href="${pageContext.request.contextPath}/resources/assetsMascota/css/Customizable-Background--Overlay.css">
+    <link rel="stylesheet"
+          href="${pageContext.request.contextPath}/resources/assetsMascota/css/Card-with-popup-text-effect.css">
 </head>
 
 <body>
