@@ -1,0 +1,125 @@
+@media (min-width: 901px) {
+  img {
+    width: 100%;
+    display: inline-block;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 900px) {
+  img {
+    width: 100%;
+    display: inline-block;
+  }
+}
+
+@media (min-width: 901px) {
+  #header {
+    font-family: 'Montserrat';
+    font-size: 7vw;
+    margin-left: 6vw;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 900px) {
+  #header {
+    font-family: 'Montserrat';
+    font-size: 60px;
+    margin: auto;
+    text-align: center;
+  }
+}
+
+@media (min-width: 901px) {
+  #datos {
+    font-family: 'Montserrat';
+    width: 45vw;
+    display: inline-block;
+    float: right;
+    margin-top: 100px;
+    margin-right: 3vw;
+    margin-bottom: 2vw;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 900px) {
+  #datos {
+    font-family: 'Montserrat';
+    width: 300px;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 7vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+#actualizar {
+  margin-top: 20px;
+}
+
+@media (min-width: 300px) {
+  #foto-mascota {
+    margin-bottom: 30px;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 900px) {
+  #div1 {
+    display: block;
+    width: 70vw;
+    margin: auto;
+  }
+}
+
+@media (min-width: 901px) {
+  #div1 {
+    display: block;
+    width: 48vw;
+    margin-left: 0vw;
+    margin-top: 1vw;
+  }
+}
+
+.inputs {
+  border: none;
+  font-size: 15px;
+}
+
+@media (min-width: 901px) {
+  header {
+    display: inline-block;
+    margin-top: 80px;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 900px) {
+  header {
+    display: block;
+    margin-top: 80px;
+  }
+}
+
+@media (min-width: 901px) {
+  .divs {
+    width: 20vw;
+    display: inline-block;
+  }
+}
+
+#update {
+  display: block;
+  margin: auto;
+}
+
+@media (min-width: 901px) {
+  #edad {
+    margin-left: 4vw;
+  }
+}
+
+#foto-perfil {
+  width: 70%;
+  display: block;
+  margin: auto;
+}
+

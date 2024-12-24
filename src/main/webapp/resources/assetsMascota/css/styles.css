@@ -1,0 +1,366 @@
+@media (min-width: 601px) and (max-width: 800px) {
+  #foto {
+    width: 54vw;
+    margin-right: 3vw;
+  }
+}
+
+@media (min-width: 801px) {
+  #foto {
+    width: 59vw;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+  #foto {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media (min-width: 601px) and (max-width:800px) {
+  .register-photo {
+    font-family: 'Montserrat';
+    display: block;
+    margin: auto;
+  }
+}
+
+@media (min-width: 801px) {
+  .register-photo {
+    font-family: 'Montserrat';
+    display: block;
+    margin: auto;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+  .register-photo {
+    font-family: 'Montserrat';
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vw;
+    margin-bottom: 20px;
+  }
+}
+
+.register.form-container {
+}
+
+@media (min-width: 601px) and (max-width:800px) {
+  .register-photo .form-container {
+    display: table;
+    max-width: 900px;
+    margin: 0 auto;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+  }
+}
+
+@media (min-width: 801px) {
+  .register-photo .form-container {
+    display: table;
+    max-width: 900px;
+    width: 90%;
+    margin: 0 auto;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+  }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+  .register-photo .form-container {
+    display: table;
+    max-width: 900px;
+    margin: 0 auto;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+  }
+}
+
+.register-photo form {
+  display: table-cell;
+  background-color: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #505e6c;
+}
+
+@media (min-width:300px) and (max-width:600px) {
+  .register-photo form {
+    padding: 10px;
+  }
+}
+
+.register-photo form h2 {
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+@media (min-width: 601px) and (max-width:800px) {
+  .register-photo form .form-control {
+    border: none;
+    border-bottom: 1px solid #dfe7f1;
+    border-radius: 0;
+    box-shadow: none;
+    outline: none;
+    color: inherit;
+    text-indent: 6px;
+    height: 3vw;
+    width: 33vw;
+    display: inline-block;
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 801px) {
+  .register-photo form .form-control {
+    border: none;
+    border-bottom: 1px solid #dfe7f1;
+    border-radius: 0;
+    box-shadow: none;
+    outline: none;
+    color: inherit;
+    text-indent: 6px;
+    height: 4vw;
+    width: 35vw;
+    display: inline-block;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+  .register-photo form .form-control {
+    border: none;
+    border-bottom: 1px solid #dfe7f1;
+    border-radius: 0;
+    box-shadow: none;
+    outline: none;
+    color: inherit;
+    text-indent: 6px;
+    height: 40px;
+    width: 286px;
+    display: inline-block;
+  }
+}
+
+.register-photo form .form-check {
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.register-photo form .btn-primary {
+  background: #f4476b;
+  border: none;
+  border-radius: 4px;
+  padding: 11px;
+  box-shadow: none;
+  margin-top: 0px;
+  text-shadow: none;
+  outline: none !important;
+}
+
+.register-photo form .btn-primary:active {
+  transform: translateY(1px);
+}
+
+.register-photo form .already {
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  color: #6f7a85;
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+#enviar:hover {
+  background-color: #e4674f;
+}
+
+@media (min-width: 601px) and (max-width:800px) {
+  #enviar {
+    width: 33vw;
+    height: 4vw;
+    font-size: 15px;
+    box-shadow: none;
+    background-color: #FF7256;
+    padding: 0px;
+  }
+}
+
+@media (min-width: 801px) {
+  #enviar {
+    width: 35vw;
+    height: 5vw;
+    padding: 0.6vw;
+    box-shadow: none;
+    background-color: #FF7256;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+  #enviar {
+    width: 286px;
+    box-shadow: none;
+    background-color: #FF7256;
+  }
+}
+
+@media (min-width: 601px) and (max-width:800px) {
+  #genero {
+    width: 33vw;
+    border: none;
+    border-bottom: 1px solid #dfe7f1;
+    border-radius: 0;
+    color: #6f7a85;
+    text-indent: 6px;
+    box-shadow: none;
+    font-size: 12px;
+    height: 26px;
+  }
+}
+
+@media (min-width: 801px) {
+  #genero {
+    width: 35vw;
+    height: 4vw;
+    border: none;
+    border-bottom: 1px solid #dfe7f1;
+    border-radius: 0;
+    color: #6f7a85;
+    text-indent: 6px;
+    box-shadow: none;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+  #genero {
+    width: 286px;
+    border: none;
+    border-bottom: 1px solid #dfe7f1;
+    border-radius: 0;
+    color: #6f7a85;
+    text-indent: 6px;
+    box-shadow: none;
+  }
+}
+
+@media (min-width: 801px) {
+  .mb-3 {
+    width: 35vw;
+    height: 4vw;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+  .mb-3 {
+    width: 286px;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 800px) {
+  #titulo {
+    position: absolute;
+    top: 100px;
+    left: 3vw;
+    font-family: 'Montserrat';
+  }
+}
+
+@media (min-width: 801px) {
+  #titulo {
+    position: absolute;
+    top: 100px;
+    left: 9vw;
+    font-family: 'Montserrat';
+  }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+  #titulo {
+    position: absolute;
+    font-family: 'Montserrat';
+    top: 90px;
+    width: 100%;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 800px) {
+  #retitulo {
+    font-size: 4vw;
+  }
+}
+
+@media (min-width: 801px) {
+  #retitulo {
+    font-size: 4vw;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+  #retitulo {
+    font-size: 9vw;
+    width: 100%;
+  }
+}
+
+@media (min-width: 601px) and (max-width:800px) {
+  #rellena {
+    font-size: 1.3vw;
+    text-align: center;
+  }
+}
+
+@media (min-width: 801px) {
+  #rellena {
+    font-size: 1.4vw;
+    width: 35vw;
+    text-align: center;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+  #rellena {
+    font-size: 11px;
+    text-align: center;
+  }
+}
+
+#contenedor {
+  margin-top: 7px;
+}
+
+input {
+  font-size: 1vw;
+}
+
+@media (min-width: 601px) and (max-width: 800px) {
+  .mb-3 {
+    width: 33vw;
+    height: 3vw;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 800px) {
+  #div2 {
+    float: right;
+    width: 36vw;
+    margin-right: 5vw;
+    margin-top: 3vw;
+  }
+}
+
+@media (min-width: 801px) {
+  #div2 {
+    float: right;
+    width: 38vw;
+    margin-right: 1vw;
+    margin-top: 4vw;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+  #div2 {
+  }
+}
+

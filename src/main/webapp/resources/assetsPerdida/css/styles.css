@@ -1,0 +1,141 @@
+@media (min-width: 300px) and (max-width: 900px) {
+  img.imgLost {
+    width: 90%;
+    margin-top: 1vw;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+}
+
+@media (min-width: 901px) {
+  img.imgLost {
+    width: 90%;
+    margin-top: 0vw;
+    margin-left: 8vw;
+    position: relative;
+  }
+}
+
+@media (min-width: 300px) {
+  #contenedor {
+    margin-top: 1px;
+  }
+}
+
+#contenedor {
+  position: relative;
+  display: inline-block;
+  margin-top: 1px;
+}
+
+@media (min-width: 901px) {
+  .derechas {
+    margin-left: 5vw;
+  }
+}
+
+@media (min-width: 901px) {
+  #genero {
+    display: inline-block;
+    margin-left: 5vw;
+    width: 20vw;
+    border: none;
+    border-bottom: 1px solid #dfe7f1;
+    border-radius: 0;
+    color: #6f7a85;
+    text-indent: 6px;
+    box-shadow: none;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 900px) {
+  #genero {
+    width: 272px;
+    border: none;
+    border-bottom: 1px solid #dfe7f1;
+    border-radius: 0;
+    color: #6f7a85;
+    text-indent: 6px;
+    box-shadow: none;
+  }
+}
+
+#prueba {
+  box-shadow: none;
+}
+
+@media (min-width: 901px) {
+  #desc {
+    width: 45vw;
+    height: 10vw;
+    text-indent: 0px;
+    resize: none;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 900px) {
+  #desc {
+    width: 272px;
+    height: 170px;
+    text-indent: 0px;
+    resize: none;
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 901px) {
+  #enviar {
+    width: 45vw;
+    margin-bottom: 10vw;
+    box-shadow: none;
+    background-color: #FF7256;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 900px) {
+  #enviar {
+    width: 272px;
+    margin-bottom: 2vw;
+    box-shadow: none;
+    background-color: #FF7256;
+  }
+}
+
+@media (min-width: 901px) {
+  #regresar {
+    width: 45vw;
+    text-underline: none;
+    box-shadow: none;
+    background-color: #FF7256;
+  }
+}
+@media (min-width: 901px) {
+  #linkRegresar {
+    text-decoration: none;
+    margin-top: 1vw;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 900px) {
+  #regresar {
+    width: 272px;
+    text-underline: none;
+    box-shadow: none;
+    background-color: #FF7256;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 900px) {
+  .mb-3 {
+    width: 272px;
+  }
+}
+
+@media (min-width: 901px) {
+  .mb-3 {
+    width: 45vw;
+  }
+}
+

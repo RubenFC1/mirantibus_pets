@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/usuario/general/mascota/mascota.jsp" value="file://$PROJECT_DIR$/src/main/webapp/usuario/general/mascota" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/usuario/general/veterinaria/veterinaria.jsp" value="file://$PROJECT_DIR$/src/main/webapp/usuario/general/veterinaria" />
+      </map>
+    </option>
+  </component>
+</project>
