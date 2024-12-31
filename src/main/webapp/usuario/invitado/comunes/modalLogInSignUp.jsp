@@ -40,7 +40,7 @@
                     <hr style="background-color: #bababa;">
                     <p class="text-center"><a class="text-decoration-none" href="#" style="color: #ff8076;">¿Olvidaste
                         tu contraseña?</a></p>
-                    <p class="text-center">¿Aun no tienes cuenta con nosotros? &nbsp;<a class="text-decoration-none"
+                    <p class="text-center">¿Aún no tienes cuenta con nosotros? &nbsp;<a class="text-decoration-none"
                                                                                         href="#" data-bs-dismiss="modal"
                                                                                         data-bs-toggle="modal"
                                                                                         data-bs-target="#registro-de-usuario"
